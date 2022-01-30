@@ -1,3 +1,4 @@
+while wait() do
 local PlaceId = game.PlaceId
 
 if PlaceId == 8012821049 then
